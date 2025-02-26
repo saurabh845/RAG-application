@@ -1,0 +1,10 @@
+streamlit
+bs4
+dotenv
+fuzzywuzzy
+python-Levenshtein
+langchain_core
+langchain_openai
+langchain_qdrant
+langchain_text_splitters
+pdfminer.six
