@@ -34,3 +34,10 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run rag_app.py
 ```
+
+## User Interface
+
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
