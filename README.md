@@ -32,5 +32,5 @@ pip install -r requirements.txt
 # OPENAI_API_KEY=your_openai_api_key
 
 # Run the Streamlit app
-streamlit run app.py
+streamlit run rag_app.py
 ```
